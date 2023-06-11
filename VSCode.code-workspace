@@ -5,6 +5,10 @@
 		}
 	],
 	"settings": {
-		"editor.fontSize": 14
+		"editor.fontSize": 14,
+		"files.associations": {
+			"time.h": "c",
+			"unistd.h": "c"
+		}
 	}
 }
