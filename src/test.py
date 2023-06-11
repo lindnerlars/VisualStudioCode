@@ -1,3 +1,3 @@
-print("Hallo Leute")
+print("Ich bin das Python Skript!")
 
 
